@@ -1,10 +1,13 @@
 _repo: The-Armed-Ship-America-Or-When-We-Sailed-from-Salem_55151
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kennedy, J. W.
     gutenberg_agent_id: '46259'
     url: http://www.gutenberg.org/2009/agents/46259
+covers:
+- cover_type: archival
+  image_path: 55151-h/images/cover.jpg
 creator:
   author:
     agent_name: Otis, James
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55151#The-Armed-Ship-America-Or-When-We-Sailed-from-Salem
 gutenberg_issued: '2017-07-19'
 gutenberg_type: Text
 identifiers:
